@@ -1,0 +1,6 @@
+c:\users\ks101\documents\visual studio 2015\Projects\PermutEtCombinos\PermutEtCombinos\bin\Debug\PermutEtCombinos.exe.config
+c:\users\ks101\documents\visual studio 2015\Projects\PermutEtCombinos\PermutEtCombinos\bin\Debug\PermutEtCombinos.exe
+c:\users\ks101\documents\visual studio 2015\Projects\PermutEtCombinos\PermutEtCombinos\bin\Debug\PermutEtCombinos.pdb
+c:\users\ks101\documents\visual studio 2015\Projects\PermutEtCombinos\PermutEtCombinos\obj\Debug\PermutEtCombinos.csprojResolveAssemblyReference.cache
+c:\users\ks101\documents\visual studio 2015\Projects\PermutEtCombinos\PermutEtCombinos\obj\Debug\PermutEtCombinos.exe
+c:\users\ks101\documents\visual studio 2015\Projects\PermutEtCombinos\PermutEtCombinos\obj\Debug\PermutEtCombinos.pdb
